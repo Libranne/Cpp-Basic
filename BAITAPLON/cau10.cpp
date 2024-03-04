@@ -130,7 +130,7 @@ struct nhatro
 {
     int sophong;
     char tensv[100];
-    float gia thue;
+    float giathue;
 };
 int chenthongtin(int s[],int s1[])
 {
